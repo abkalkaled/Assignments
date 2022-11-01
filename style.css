@@ -1,0 +1,114 @@
+
+header{
+  width: 100%;
+}
+
+nav{
+  margin-top: 20px;
+}
+}
+
+.topnav{
+  margin: auto;
+  /*overflow : hidden;*/
+  
+}
+
+.topnav a{
+  background: #7b678f;
+  font-size: 15px;
+  text-align: center;
+  padding: 5px 20px;
+  text-decoration: none;
+  color: darkgray;
+  Font-family: sans-serif;
+  margin-left: 5px;
+  border: 1px solid black;
+}
+
+section {
+  border-bottom: 2px solid lightgray;
+}
+
+figure {
+  margin: 20px auto;
+  width: 50%;
+  border: 1px solid gray;
+  height: 200px;
+}
+
+figure img{
+  width: 100%;
+}
+
+h1{
+  padding: 0px 15px;
+  font-family: Arial;
+  font-size: 30px;
+  color: #7b678f;
+}
+
+.intro{
+  padding: 3px 15px;
+  text-align: center;
+}
+
+#about, #skills,#project{
+  border-bottom: 1px solid gray;
+}
+
+footer{
+
+}
+
+#cont_details{
+  background: #fff5f5;
+  height: 100px;
+  margin-top: 50px;
+  text-align: right;
+  border-bottom: 1px solid plum;
+}
+
+#contact{
+  height: 1000px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+p{
+  margin: 20px;
+  padding: 15%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+}
+
+.form{
+  padding: 5px;
+  margin-top: 50px;
+}
+
+input{
+  background: #f5f4f4;
+  padding: 10px 50px 10px 10px;
+  border: 2px solid #7b678f;
+}
+
+textarea{
+  width: 70%;
+  height: 200px;
+  padding: 0px;
+   border: 2px solid #7b678f;
+}
+
+#submit{
+  background: #7b678f;
+  padding: 8px 15px;
+  font-size: 20px;
+  margin-left: 25px;
+  font-family: Arial, Helvetica, sans-serifS;
+}
+
+#submit:hover{
+  cursor: pointer;
+  background: gray;
+}
